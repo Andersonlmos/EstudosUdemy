@@ -44,14 +44,19 @@
           <ul>
             <li><a href="exercicio.php?dir=variaveis&file=basico">Variáveis</a></li>
             <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação</a></li>
-            <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">atribuiçoes</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuiçoes</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variaveis de variaveis</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis_variaveis"> Desafio Variaveis de variaveis</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=valor_referencia"> Valor vs Referência</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=constantes">Constantes</a></li>
           </ul>
         </div>
         <div class="modulo roxo">
-          <h3>Módulo 04</h3>
+          <h3>Controle</h3>
           <ul>
-            <li><a href="#">Exercicio A</a></li>
-            <li><a href="#">Exercicio B</a></li>
+            <li><a href="exercicio.php?dir=controle&file=if_else">IF e ELSE</a></li>
+            <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Op. Relacionais</a></li>
             <li><a href="#">Exercicio C</a></li>
           </ul>
         </div>
