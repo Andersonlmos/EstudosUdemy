@@ -57,7 +57,9 @@
           <ul>
             <li><a href="exercicio.php?dir=controle&file=if_else">IF e ELSE</a></li>
             <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Op. Relacionais</a></li>
-            <li><a href="#">Exercicio C</a></li>
+            <li><a href="exercicio.php?dir=controle&file=desafio_pi">Desafio Pi</a></li>
+            <li><a href="exercicio.php?dir=controle&file=operadores_logicos">Op. Logicos</a></li>
+            <li><a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Desafio Op. Lógicos</a></li>
           </ul>
         </div>
         <div class="modulo cinza">
