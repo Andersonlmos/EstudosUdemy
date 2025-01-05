@@ -60,6 +60,7 @@
             <li><a href="exercicio.php?dir=controle&file=desafio_pi">Desafio Pi</a></li>
             <li><a href="exercicio.php?dir=controle&file=operadores_logicos">Op. Logicos</a></li>
             <li><a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Desafio Op. Lógicos</a></li>
+            <li><a href="exercicio.php?dir=controle&file=operador_ternario">Operador Ternário</a></li>
           </ul>
         </div>
         <div class="modulo cinza">
