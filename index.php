@@ -27,7 +27,7 @@
           </ul>
         </div>
         <div class="modulo vermelho">
-          <h3>Tipos</h3>
+          <h3>Modulo 02 - Tipos</h3>
           <ul>
             <li><a href="exercicio.php?dir=tipos&file=int">Tipo Inteiro</a></li>
             <li><a href="exercicio.php?dir=tipos&file=float">tipo Float</a></li>
@@ -40,7 +40,7 @@
           </ul>
         </div>
         <div class="modulo amarelo">
-          <h3>Variáveis</h3>
+          <h3>Modulo 03 - Variáveis</h3>
           <ul>
             <li><a href="exercicio.php?dir=variaveis&file=basico">Variáveis</a></li>
             <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação</a></li>
@@ -53,7 +53,7 @@
           </ul>
         </div>
         <div class="modulo roxo">
-          <h3>Controle</h3>
+          <h3>Modulo 04 - Controle</h3>
           <ul>
             <li><a href="exercicio.php?dir=controle&file=if_else">IF e ELSE</a></li>
             <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Op. Relacionais</a></li>
@@ -64,11 +64,13 @@
           </ul>
         </div>
         <div class="modulo cinza">
-          <h3>Módulo 05</h3>
+          <h3>Modulo 05 - Array</h3>
           <ul>
-            <li><a href="#">Exercicio A</a></li>
-            <li><a href="#">Exercicio B</a></li>
-            <li><a href="#">Exercicio C</a></li>
+            <li><a href="exercicio.php?dir=array&file=basico">Array</a></li>
+            <li><a href="exercicio.php?dir=array&file=mapa">Mapa</a></li>
+            <li><a href="exercicio.php?dir=array&file=desafio_index">Desafio Index</a></li>
+            <li><a href="exercicio.php?dir=array&file=desafio_meses">Desafio Meses</a></li>
+            <li><a href="exercicio.php?dir=array&file=operacoes">Operações</a></li>
           </ul>
         </div>
         <div class="modulo azul">
