@@ -2,17 +2,20 @@
 
 <?php
 $nomes = [
-     "Ana",
-     "Paula",
-     "Anderson",
-     "Claudio",
-     "José",
-     "Beatriz",
-     "Ricardo"
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
 ];
 
 $sorteado = array_rand($nomes);
-echo "<p center>O nome sorteado foi : </p>" . "<div center><h1>$nomes[$sorteado]</h1></div>" ;
+echo "<p center>O numero sorteado foi : </p>" . "<div center><h1>$nomes[$sorteado]</h1></div>" ;
 
 ?>
 <style>
