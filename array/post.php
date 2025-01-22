@@ -7,6 +7,7 @@
     <select name="estado">
         <option value="FOR">Fortaleza</option>
         <option value="CAU">Caucaia</option>
+        <option value="MAR">Maracanau</option>
     </select>
     <button>Enviar</button>
 </form>
