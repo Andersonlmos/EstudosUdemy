@@ -74,9 +74,6 @@
             <li><a href="exercicio.php?dir=array&file=desafio_meses">Desafio Meses</a></li>
             <li><a href="exercicio.php?dir=array&file=operacoes">Operações</a></li>
             <li><a href="exercicio.php?dir=array&file=desafio_sorteio">Desafio Sorteio</a></li>
-            <li><a href="exercicio.php?dir=array&file=multi">Multidimensionais</a></li>
-            <li><a href="exercicio.php?dir=array&file=constante">Constante</a></li>
-            <li><a href="exercicio.php?dir=array&file=get">$_GET</a></li>
           </ul>
         </div>
         <div class="modulo azul">
@@ -107,7 +104,7 @@
           <h3>Atividades</h3>
           <ul>
             <li><a href="exercicio.php?dir=atividades&file=calendario">At. Calendario</a></li>
-            <li><a href="#">Exercicio B</a></li>
+            <li><a href="exercicio.php?dir=atividades&file=formulario">Formulario</a></li>
             <li><a href="#">Exercicio C</a></li>
           </ul>
         </div>
