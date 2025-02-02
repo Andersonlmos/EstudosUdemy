@@ -86,6 +86,10 @@
             <li><a href="exercicio.php?dir=repeticoes&file=desafio_for">Desafio for</a></li>
             <li><a href="exercicio.php?dir=repeticoes&file=foreach">Foreach</a></li>
             <li><a href="exercicio.php?dir=repeticoes&file=break_continue">Break/Continue</a></li>
+            <li><a href="exercicio.php?dir=repeticoes&file=desafio_impressao">Desafio Impressão</a></li>
+            <li><a href="exercicio.php?dir=repeticoes&file=while">While/do-while</a></li>
+            <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela">Desafio Tabela</a></li>
+            <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela2">Desafio Tabela 02</a></li>
           </ul>
         </div>
         <div class="modulo rosa">
