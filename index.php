@@ -95,7 +95,7 @@
         <div class="modulo rosa">
           <h3>Módulo 07 - Funções</h3>
           <ul>
-            <li><a href="exercicio.php?dir=funcoes&file=funcoes">Desafio Tabela 02</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=escopo">Funcoes & Escopo</a></li>
             <li><a href="#">Exercicio A</a></li>
             <li><a href="#">Exercicio B</a></li>
             <li><a href="#">Exercicio C</a></li>
