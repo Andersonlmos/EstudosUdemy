@@ -96,13 +96,13 @@
           <h3>Módulo 07 - Funções</h3>
           <ul>
             <li><a href="exercicio.php?dir=funcoes&file=escopo">Funcoes & Escopo</a></li>
-            <li><a href="#">Exercicio A</a></li>
-            <li><a href="#">Exercicio B</a></li>
-            <li><a href="exercicio.php?dir=funcoes&file=funcoes">Desafio Tabela 02</a></li>
             <li><a href="exercicio.php?dir=funcoes&file=arg_retorno">Argumentos e Retorno</a></li>
             <li><a href="exercicio.php?dir=funcoes&file=palindromo">Desafio Palindromo</a></li>
             <li><a href="exercicio.php?dir=funcoes&file=args_variaveis">Argumentos Variaveis</a></li>
             <li><a href="exercicio.php?dir=funcoes&file=arg_padrao">Argumentos Padrão</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=usando_tipos">Usando Tipos</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=anonimas">Funções Anônimas</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=closure_callable">Closure & Callable</a></li>
           </ul>
         </div>
         <div class="modulo laranja">
