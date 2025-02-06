@@ -101,7 +101,8 @@
             <li><a href="exercicio.php?dir=funcoes&file=funcoes">Desafio Tabela 02</a></li>
             <li><a href="exercicio.php?dir=funcoes&file=arg_retorno">Argumentos e Retorno</a></li>
             <li><a href="exercicio.php?dir=funcoes&file=palindromo">Desafio Palindromo</a></li>
-            <li><a href="#">Exercicio C</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=args_variaveis">Argumentos Variaveis</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=arg_padrao">Argumentos Padrão</a></li>
           </ul>
         </div>
         <div class="modulo laranja">
