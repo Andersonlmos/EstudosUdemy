@@ -103,6 +103,8 @@
             <li><a href="exercicio.php?dir=funcoes&file=usando_tipos">Usando Tipos</a></li>
             <li><a href="exercicio.php?dir=funcoes&file=anonimas">Funções Anônimas</a></li>
             <li><a href="exercicio.php?dir=funcoes&file=closure_callable">Closure & Callable</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=recursividade">Recursividade</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=desafio_recursividade">Desafio_Recursividade</a></li>
           </ul>
         </div>
         <div class="modulo laranja">
