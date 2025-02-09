@@ -110,10 +110,10 @@
           </ul>
         </div>
         <div class="modulo laranja">
-          <h3>Módulo 08</h3>
+          <h3>Módulo 08 - Paradigma O.O</h3>
           <ul>
-            <li><a href="#">Exercicio A</a></li>
-            <li><a href="#">Exercicio B</a></li>
+            <li><a href="exercicio.php?dir=classe_objetos&file=classe">Primeira Classe</a></li>
+            <li><a href="exercicio.php?dir=classe_objetos&file=desafio_data">Desafio Data</a></li>
             <li><a href="#">Exercicio C</a></li>
           </ul>
         </div>
