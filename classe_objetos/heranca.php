@@ -9,7 +9,7 @@ class Pessoa {
     {
         $this->nome = $nome;
         $this->idade = $idade;
-        return 'Pessoa Criada! <br>';
+        echo 'Pessoa Criada! <br>';
     }
 
     public function apresentar() {
@@ -29,9 +29,15 @@ class Usuario extends Pessoa {
     }
 
     public function apresentar() {
-        return "@{$this->login}: {$this->nome}, {$this->idade} anos";
+        return "@{$this->login}: {$this->nome}, {$this->idade} anos<br>";
     }
 }
 
 $usuario = new Usuario('Anderson', 30, 'anderson_souza');
+echo $usuario->apresentar();
+
+$usuario = new Usuario('Pedro', 22, 'pedro_qrq');
+echo $usuario->apresentar();
+
+$usuario = new Usuario('Paula', 20, 'paula_suz');
 echo $usuario->apresentar();
