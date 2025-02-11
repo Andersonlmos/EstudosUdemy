@@ -116,6 +116,7 @@
             <li><a href="exercicio.php?dir=classe_objetos&file=desafio_data">Desafio Data</a></li>
             <li><a href="exercicio.php?dir=classe_objetos&file=construtor_destrutor">Const. e Destrutor</a></li>
             <li><a href="exercicio.php?dir=classe_objetos&file=heranca">Herança</a></li>
+            <li><a href="exercicio.php?dir=classe_objetos&file=visibilidade">Visibilidade</a></li>
           </ul>
         </div>
         <div class="modulo preto">

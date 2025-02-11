@@ -12,6 +12,11 @@ class Pessoa {
         echo 'Pessoa Criada! <br>';
     }
 
+    function __destruct()
+    {
+        echo 'destruido!';
+    }
+
     public function apresentar() {
         return "{$this->nome}, {$this->idade} anos";
     }
@@ -26,6 +31,11 @@ class Usuario extends Pessoa {
         $this->idade = $idade;   
         $this->login = $login;
         echo 'Usuario Criado!<br>';   
+    }
+
+    function __destruct()
+    {
+        echo 'Usuario diz: Tchau!';
     }
 
     public function apresentar() {
