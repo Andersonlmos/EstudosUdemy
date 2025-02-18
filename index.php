@@ -120,6 +120,8 @@
             <li><a href="exercicio.php?dir=classe_objetos&file=static">Membros Estáticos</a></li>
             <li><a href="exercicio.php?dir=classe_objetos&file=interface">Interface</a></li>
             <li><a href="exercicio.php?dir=classe_objetos&file=abstract">Abstract</a></li>
+            <li><a href="exercicio.php?dir=classe_objetos&file=desafio_erro">Desafio 7 Erros</a></li>
+            <li><a href="exercicio.php?dir=classe_objetos&file=final">Modificador Final</a></li>
           </ul>
         </div>
         <div class="modulo preto">
