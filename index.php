@@ -132,7 +132,7 @@
           <h3>Módulo 10 - Include</h3>
           <ul>
             <li><a href="exercicio.php?dir=includes&file=include">Include</a></li>
-            <li><a href="">Exercicio A</a></li>
+            <li><a href="exercicio.php?dir=includes&file=desafio_include">Desafio Include</a></li>
             <li><a href="#">Exercicio B</a></li>
             <li><a href="#">Exercicio C</a></li>
           </ul>
