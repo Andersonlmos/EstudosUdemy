@@ -125,6 +125,16 @@
             <li><a href="exercicio.php?dir=classe_objetos&file=traits_01">Traits #01</a></li>
             <li><a href="exercicio.php?dir=classe_objetos&file=traits_02">Traits #02</a></li>
             <li><a href="exercicio.php?dir=classe_objetos&file=magic_methods">Metodos Magicos</a></li>
+            <li><a href="exercicio.php?dir=classe_objetos&file=polimorfismo">Polimorfismo</a></li>
+          </ul>
+        </div>
+        <div class="modulo verde-escuro">
+          <h3>Módulo 10 - Include</h3>
+          <ul>
+            <li><a href="exercicio.php?dir=includes&file=include">Include</a></li>
+            <li><a href="">Exercicio A</a></li>
+            <li><a href="#">Exercicio B</a></li>
+            <li><a href="#">Exercicio C</a></li>
           </ul>
         </div>
         <div class="modulo preto">
