@@ -36,7 +36,7 @@ class Usuario {
     use validacao, validacaoMelhor;
 }
 
-$usuario = new Usuario();
+$usuario = new Usuario("Anderson");
 var_dump($usuario->validarStringh(' '));
 echo '<br>';
 var_dump($usuario->validarStringMelhor(''));
