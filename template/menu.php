@@ -79,7 +79,7 @@
         <div class="modulo rosa">
           <h3>Módulo 07 - Funções</h3>
           <ul>
-            <li><a href="exercicio.php?dir=funcoes&file=escopo">Funcoes & Escopo</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=escopo">Funções & Escopo</a></li>
             <li><a href="exercicio.php?dir=funcoes&file=arg_retorno">Argumentos e Retorno</a></li>
             <li><a href="exercicio.php?dir=funcoes&file=palindromo">Desafio Palindromo</a></li>
             <li><a href="exercicio.php?dir=funcoes&file=args_variaveis">Argumentos Variaveis</a></li>
@@ -122,15 +122,15 @@
         <div class="modulo preto">
           <h3>Módulo 11 - Namespace</h3>
           <ul>
-            <li><a href="exercicio.php?dir=namespace&file=basico">Exemplo Básico</a></li>
-            <li><a href="exercicio.php?dir=atividades&file=formulario">Formulario</a></li>
-            <li><a href="#">Exercicio C</a></li>
+            <li><a href="exercicio.php?dir=namespace&file=basico">Namespace</a></li>
+            <li><a href="exercicio.php?dir=namespace&file=subnamespace">Sub-namespace</a></li>
+            <li><a href="exercicio.php?dir=namespace&file=use_as">Use/As</a></li>
           </ul>
         </div>
         <div class="modulo verde-escuro">
-          <h3>Módulo 10</h3>
+          <h3>Módulo 10 - Tratamento de Erros</h3>
           <ul>
-            <li><a href="#">Exercicio A</a></li>
+            <li><a href="exercicio.php?dir=tratamento_erro&file=try_catch">Try & Catch</a></li>
             <li><a href="#">Exercicio B</a></li>
             <li><a href="#">Exercicio C</a></li>
           </ul>
