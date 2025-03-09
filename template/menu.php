@@ -132,13 +132,14 @@
           <ul>
             <li><a href="exercicio.php?dir=tratamento_erro&file=try_catch">Try & Catch</a></li>
             <li><a href="exercicio.php?dir=tratamento_erro&file=erros_personalizados">Erros Personalizados</a></li>
-            <li><a href="#">Exercicio C</a></li>
+            <li><a href="exercicio.php?dir=tratamento_erro&file=desafio_intdiv_test">Desafio intdiv</a></li>
+            <li><a href="exercicio.php?dir=tratamento_erro&file=gerenciador_erro">Error Handler</a></li>
           </ul>
         </div>
         <div class="modulo lilas">
-          <h3>Módulo 11</h3>
+          <h3>Módulo 11 - Sessão e Cookie</h3>
           <ul>
-            <li><a href="#">Exercicio A</a></li>
+            <li><a href="exercicio.php?dir=sessao&file=basico_sessao">Básico</a></li>
             <li><a href="#">Exercicio B</a></li>
             <li><a href="#">Exercicio C</a></li>
           </ul>

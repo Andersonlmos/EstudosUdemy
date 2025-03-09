@@ -21,10 +21,9 @@
     </nav>
     <main class="principal">
       <div class="conteudo">
-        <?php ini_set('display_errors', 0);
+        <?php ini_set('display_erros', 0);
           include($_GET['dir'] . "/" . $_GET['file'] . ".php");
           // include(__DIR__ . "/{$_GET['dir']}/{$_GET['file']}.php");
-         
         ?>
       </div>
     </main>
