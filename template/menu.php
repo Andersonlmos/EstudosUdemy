@@ -140,7 +140,7 @@
           <h3>Módulo 11 - Sessão e Cookie</h3>
           <ul>
             <li><a href="exercicio.php?dir=sessao&file=basico_sessao">Básico</a></li>
-            <li><a href="#">Exercicio B</a></li>
+            <li><a href="exercicio.php?dir=sessao&file=gerenciando_sessao">Gerenciando Sessao</a></li>
             <li><a href="#">Exercicio C</a></li>
           </ul>
         </div>

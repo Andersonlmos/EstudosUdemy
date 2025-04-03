@@ -14,6 +14,9 @@
       <h1>Curso PHP</h1>
       <h2>Indice dos Exercicios</h2>
     </header>
+    <nav class="navegacao">
+      
+    </nav>
       <?php require_once "template/menu.php"?>
       <?php require_once "template/footer.php"?>
   </body>
