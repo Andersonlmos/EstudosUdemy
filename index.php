@@ -22,7 +22,8 @@ if(!$_SESSION['usuario']) {
       <h2>Indice dos Exercicios</h2>
     </header>
     <nav class="navegacao">
-      
+      <span class="usuario">Usuário: <?= $_SESSION['usuario'] ?> </span>
+      <a href="logout.php" class="vermelho">Sair</a>
     </nav>
       <?php require_once "template/menu.php"?>
       <?php require_once "template/footer.php"?>
