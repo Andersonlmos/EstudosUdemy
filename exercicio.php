@@ -1,6 +1,8 @@
 <?php
 session_start();
+include ('include_cookie.php');
 ?>
+
 <!DOCTYPE html>
 <html lang="pt-BR">
   <head>

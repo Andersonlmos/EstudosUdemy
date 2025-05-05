@@ -141,12 +141,12 @@
           <ul>
             <li><a href="exercicio.php?dir=sessao&file=basico_sessao">Básico</a></li>
             <li><a href="exercicio.php?dir=sessao&file=gerenciando_sessao">Gerenciando Sessao</a></li>
-            <li><a href="#">Exercicio C</a></li>
           </ul>
         </div>
         <div class="modulo azul-marinho">
-          <h3>Módulo 12</h3>
+          <h3>Módulo 12 - API</h3>
           <ul>
+            <li><a href="exercicio.php?dir=api&file=datas_1">Datas 1</a></li>
             <li><a href="#">Exercicio A</a></li>
             <li><a href="#">Exercicio B</a></li>
             <li><a href="#">Exercicio C</a></li>
